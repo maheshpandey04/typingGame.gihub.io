@@ -1,0 +1,15 @@
+.heading{
+    height: 400px;
+    color:whitesmoke;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-transform: capitalize;
+    margin: 0;
+}
+.lead{
+    font-size: 50px;
+    color:rgb(230, 209, 209);
+    font-weight: bolder;
+
+}
